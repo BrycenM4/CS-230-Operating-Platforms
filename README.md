@@ -3,7 +3,7 @@ This a project I did for my CS-230 Operating Platforms course through SNHU. In t
 
 # Questions
 - Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-  The client "The Gaming Room," has a game called "Draw It or Lose it," which is already available on Andriod devices, but they want to develop a web-based application for it, as well as an iOS version. The game should be able to hold multiple teams, with each team having multiple members. There will be four rounds in total, with each lasting a minute each, and the objective is for a team to guess what the puzzle is, and if they fail to guess before the time is up, then another team has a chance to guess.
+ The client "The Gaming Room," has a game called "Draw It or Lose it," which is already available on Andriod devices, but they want to develop a web-based application for it, as well as an iOS version. The game should be able to hold multiple teams, with each team having multiple members. There will be four rounds in total, with each lasting a minute each, and the objective is for a team to guess what the puzzle is, and if they fail to guess before the time is up, then another team has a chance to guess.
 
 - What did you do particularly well in developing this documentation?
     I think I did well on explaining the requirements and pros/cons for each development platform, by making sure each section was detailed enough for the audience to get a good grasp of what each platform would be like in a development environment.
